@@ -13,7 +13,7 @@
         <mxCell id="gj7Lqz_uDxO7MRF6QAoS-11" value="" style="shape=startState;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;outlineConnect=0;aspect=fixed;outline=standard;symbol=message;perimeter=ellipsePerimeter;fillColor=#000000;strokeColor=#ff0000;" parent="gj7Lqz_uDxO7MRF6QAoS-6" vertex="1">
           <mxGeometry x="60" y="30" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="byTplBRAekraVyJS9zgL-37" value="Форма заполнена&amp;nbsp;&lt;div&gt;и отправлена&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gj7Lqz_uDxO7MRF6QAoS-6">
+        <mxCell id="byTplBRAekraVyJS9zgL-37" value="Форма заполнена&amp;nbsp;&lt;div&gt;и отправлена&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="gj7Lqz_uDxO7MRF6QAoS-6" vertex="1">
           <mxGeometry x="112" y="40" width="157" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gj7Lqz_uDxO7MRF6QAoS-7" value="Сотрудник" style="swimlane;html=1;startSize=20;horizontal=0;fillColor=none;strokeColor=#688F51;" parent="gj7Lqz_uDxO7MRF6QAoS-5" vertex="1">
@@ -21,10 +21,10 @@
             <mxRectangle x="20" y="215" width="1790" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="byTplBRAekraVyJS9zgL-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="gj7Lqz_uDxO7MRF6QAoS-7" source="G3vWXNh6A1pPj3LREwGl-22" target="byTplBRAekraVyJS9zgL-21">
+        <mxCell id="byTplBRAekraVyJS9zgL-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="gj7Lqz_uDxO7MRF6QAoS-7" source="G3vWXNh6A1pPj3LREwGl-22" target="byTplBRAekraVyJS9zgL-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="byTplBRAekraVyJS9zgL-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.003;entryY=0.379;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="gj7Lqz_uDxO7MRF6QAoS-7" source="G3vWXNh6A1pPj3LREwGl-22" target="DeSNE2LEJQVDBhBTEOND-13">
+        <mxCell id="byTplBRAekraVyJS9zgL-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.003;entryY=0.379;entryDx=0;entryDy=0;entryPerimeter=0;" parent="gj7Lqz_uDxO7MRF6QAoS-7" source="G3vWXNh6A1pPj3LREwGl-22" target="DeSNE2LEJQVDBhBTEOND-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="G3vWXNh6A1pPj3LREwGl-22" value="" style="shape=mxgraph.bpmn.gateway2;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;outlineConnect=0;outline=none;symbol=none;gwType=parallel;fillColor=#E6E6E6;" parent="gj7Lqz_uDxO7MRF6QAoS-7" vertex="1">
@@ -33,10 +33,10 @@
         <mxCell id="DeSNE2LEJQVDBhBTEOND-13" value="Утвердил" style="shape=label;rectStyle=rounded;size=10;taskMarker=send;labelBackgroundColor=none;fillColor=#FFFFFF;rounded=1;whiteSpace=wrap;html=1;" parent="gj7Lqz_uDxO7MRF6QAoS-7" vertex="1">
           <mxGeometry x="150" y="30" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="byTplBRAekraVyJS9zgL-21" value="Отклонил" style="shape=label;rectStyle=rounded;size=10;taskMarker=send;labelBackgroundColor=none;fillColor=#FFFFFF;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gj7Lqz_uDxO7MRF6QAoS-7">
+        <mxCell id="byTplBRAekraVyJS9zgL-21" value="Отклонил" style="shape=label;rectStyle=rounded;size=10;taskMarker=send;labelBackgroundColor=none;fillColor=#FFFFFF;rounded=1;whiteSpace=wrap;html=1;" parent="gj7Lqz_uDxO7MRF6QAoS-7" vertex="1">
           <mxGeometry x="40" y="115" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="byTplBRAekraVyJS9zgL-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="gj7Lqz_uDxO7MRF6QAoS-5" target="G3vWXNh6A1pPj3LREwGl-22">
+        <mxCell id="byTplBRAekraVyJS9zgL-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="gj7Lqz_uDxO7MRF6QAoS-5" target="G3vWXNh6A1pPj3LREwGl-22" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="104.99999999999989" y="64" as="sourcePoint" />
             <mxPoint x="105" y="154" as="targetPoint" />
@@ -46,16 +46,16 @@
         <mxCell id="Llef_BaN1A0aLWC5Fdf0-2" value="СДО" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;labelBackgroundColor=none;fillColor=none;strokeColor=#000000;swimlaneFillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-320" y="620" width="590" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="byTplBRAekraVyJS9zgL-32" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+        <mxCell id="byTplBRAekraVyJS9zgL-32" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
           <mxGeometry x="-124" y="675" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="byTplBRAekraVyJS9zgL-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="byTplBRAekraVyJS9zgL-32">
+        <mxCell id="byTplBRAekraVyJS9zgL-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="byTplBRAekraVyJS9zgL-32" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-109" y="471" as="sourcePoint" />
             <mxPoint x="-107.99999999999977" y="664" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="byTplBRAekraVyJS9zgL-36" value="Утвержденная заявка поступает в СДО" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="byTplBRAekraVyJS9zgL-36" value="Утвержденная заявка поступает в СДО" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-186" y="710" width="157" height="30" as="geometry" />
         </mxCell>
       </root>
